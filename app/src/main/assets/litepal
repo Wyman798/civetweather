@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "civet_weather" />
+    <version value = "1"/>
+    <list>
+        <mapping class = "wyman.com.civetweather.db.Province"/>
+        <mapping class="wyman.com.civetweather.db.City"/>
+        <mapping class="wyman.com.civetweather.db.County"/>
+    </list>
+</litepal>
